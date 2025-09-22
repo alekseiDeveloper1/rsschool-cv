@@ -28,4 +28,22 @@ Senior Frontend Engineer с 6-летним опытом,
     console.log(usage()); //3
 ```
 
+### Опыт работы
 
+Frontend-разработчик (Senior)
+DM Basis (Москва) | Май 2023 — настоящее время
+
+Наставник по Frontend-разработке
+Maxima, ООО | Октябрь 2021 — настоящее время
+
+Frontend-разработчик (Middle)
+Orion Innovation (Казань) | Январь 2021 — Апрель 2022
+
+
+### Образование
+
+КНИТУ им. А.Н. Туполева (Казань) | 2015 | Высшее
+
+CS50x (Harvard) | 2023 | Computer Science & Software Engineering
+
+#### Уровень владения английского языка B1
